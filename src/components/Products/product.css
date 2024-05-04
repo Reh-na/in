@@ -1,0 +1,54 @@
+
+
+#bgcontact::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 87%;
+  background: url("../../images/contact-bg.jpg");
+  background-size: cover;
+  filter: brightness(50%); /* Set the desired opacity for the background image */
+  z-index: -1; /* Move the overlay behind other content */
+  opacity: 1;
+}
+
+/* Additional styling for the content */
+#heads {
+    position: relative; /* Ensure content stays above the overlay */
+    z-index: 1; /* Ensure content is above the overlay */
+    /* Add any other styles for the content here */
+  }
+  
+  .image-container {
+    position: relative;
+    overflow: hidden; /* Ensure the overlay doesn't overflow */
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 0, 0, 0.5); /* Red overlay with 50% opacity */
+    color: white; /* Text color for the overlay */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .pic:hover .overlay {
+    opacity: 1; /* Show the overlay when hovering */
+  }
+  
+  .pic:hover 
+   {
+    transform: scale(1.05); /* Scale the image slightly larger */
+  }
+  
+  

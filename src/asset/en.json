@@ -1,0 +1,85 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "products": "Products",
+        "contact": "Contact"
+    },
+    "products": {
+        "heading": "PRODUCTS",
+        "subhead": "Great & Awesome Products",
+        "mainhead": "OUR PRODUCTS.",
+        "allproducts": "All Products",
+        "bearing": "Bearing",
+        "seals": "Seals",
+        "tools": "Tools & Equipments",
+        "filters": "Filters",
+        "fittings": "Fittings",
+        "hoses": "Hoses",
+        "vbelts": "V Belts",
+        "oring": "O Rings",
+        "safety": "Safety Items"
+    },
+    "contact": {
+        "heading": "CONTACT US.",
+        "subhead": "We Wanna Hear From You!",
+        "visit": "Branches",
+        "place": "Jeddah-Makkah-Riyadh-Yanbu-Khamis Mushait",
+        "email": "Email Us",
+        "call": "Call Us",
+        "submit": "SUBMIT",
+        "yourname": "Your Name",
+        "yourmail": "Your Mail",
+        "subject": "Subject",
+        "telephone": "Telephone",
+        "message": "Message"
+    },
+    "about": {
+        "heading": "ABOUT",
+        "who": "Who are We?",
+        "whocon": "Insaf Tech Trading Co. Ltd. is one of the pioneering Industrial Tools Equipment and Hydraulics suppliers in The Kingdom of Saudi Arabia. Established in Jeddah in the year 1993, we have been serving a long list of reputed clients from various industries both public and private sector. Our Clientele covers Construction Companies, Factories Automotive Workshops, Refineries, Petrochemical Companies and other Support industries. Having earned a reputation for supplying quality Industrial Tools/Equipment and support services for the last 30 years, we are keen to enhance our service to a wider range of Clients in the Kingdom of Saudi Arabia.",
+        "vision":"Our Vision",
+        "ourvision":"To become one of the frontline suppliers of industrial tools and equipment in the Kingdom of Saudi Arabia, expanding our branch network to provide the best portable service to our long list of clients representing various industries.",
+        "mission":"Our Mission",
+        "ourmission":"To address the market needs of various tools and industrial equipment, supporting service businesses and industries, by keeping pace with the phenomenal development of this great nation."
+    },
+    "home":{
+        "slogan":"Where Trust meets Quality",
+        "who":"Who are We?",
+        "whocon":"Insaf Tech Trading Co. Ltd. is one of the pioneering Industrial Tools Equipment and Hydraulics suppliers in The Kingdom of Saudi Arabia. Established in Jeddah in the year 1993, we have been serving a long list of reputed clients from various industries both public and private sector. Our Clientele covers Construction Companies, Factories Automotive Workshops, Refineries, Petrochemical Companies and other Support industries. Having earned a reputation for supplying quality Industrial Tools/Equipment and support services for the last 30 years, we are keen to enhance our service to a wider range of Clients in the Kingdom of Saudi Arabia.",
+        "productcategories":"Product Categories",
+        "bearing": "Bearing",
+        "seals": "Seals",
+        "tools": "Tools & Equipments",
+        "filters": "Filters",
+        "fittings": "Fittings",
+        "hoses": "Hoses",
+        "vbelts": "V Belts",
+        "oring": "O Rings",
+        "safety": "Safety Items",
+        "explore":"Explore",
+        "make":"What makes us different",
+        "makehead1":"Expertise:",
+        "makecon1":" Our team has deep industry knowledge to recommend the perfect tools for your needs.",
+
+        "makehead2":"Selection:",
+        "makecon2":" We offer a vast range of top brands and equipment to tackle any project.",
+
+        "makehead3":"Solutions:",
+         "makecon3":" We go beyond products, providing support and resources to maximize your equipment's potential.",
+
+         "makehead4":"Reliability:",
+         "makecon4":" Count on us for fast delivery, competitive prices, and exceptional customer service."
+    },
+    "footer":{
+        "discover":"Discover",
+        "product":"Products",
+        "contact":"Contact",
+        "call":"Call Us",
+        "mail":"Mail Us",
+        "branch":"Branches",
+        "place": "Jeddah-Makkah-Riyadh-Yanbu-Khamis Mushait"
+
+    }
+
+}
